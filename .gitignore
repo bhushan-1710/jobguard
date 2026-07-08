@@ -41,3 +41,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Raw datasets
+datasets/raw/*
+!datasets/raw/.gitkeep
